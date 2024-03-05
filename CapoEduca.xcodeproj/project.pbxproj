@@ -11,6 +11,36 @@
 		3F90EFAE2B909E8600AC8387 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFAD2B909E8600AC8387 /* ContentView.swift */; };
 		3F90EFB02B909E8700AC8387 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F90EFAF2B909E8700AC8387 /* Assets.xcassets */; };
 		3F90EFB32B909E8700AC8387 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F90EFB22B909E8700AC8387 /* Preview Assets.xcassets */; };
+		3F90EFBF2B909F4D00AC8387 /* CapoeiraMove.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFBE2B909F4D00AC8387 /* CapoeiraMove.swift */; };
+		3F90EFC12B909F5E00AC8387 /* Instrument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFC02B909F5E00AC8387 /* Instrument.swift */; };
+		3F90EFC32B909F7600AC8387 /* Movement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFC22B909F7600AC8387 /* Movement.swift */; };
+		3F90EFC52B909FB000AC8387 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFC42B909FB000AC8387 /* Color.swift */; };
+		3F90EFC72B909FCA00AC8387 /* GlobalAudioManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFC62B909FCA00AC8387 /* GlobalAudioManager.swift */; };
+		3F90EFC92B909FED00AC8387 /* AnimationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFC82B909FED00AC8387 /* AnimationViewModel.swift */; };
+		3F90EFCB2B90A01E00AC8387 /* ExplanationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFCA2B90A01E00AC8387 /* ExplanationViewModel.swift */; };
+		3F90EFCD2B90A04300AC8387 /* FourMovementsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFCC2B90A04300AC8387 /* FourMovementsViewModel.swift */; };
+		3F90EFCF2B90A06800AC8387 /* InstrumentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFCE2B90A06800AC8387 /* InstrumentViewModel.swift */; };
+		3F90EFD12B90A08E00AC8387 /* MainMenuViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFD02B90A08E00AC8387 /* MainMenuViewModel.swift */; };
+		3F90EFD32B90A0E500AC8387 /* MovementViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFD22B90A0E500AC8387 /* MovementViewModel.swift */; };
+		3F90EFD52B90A12C00AC8387 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFD42B90A12C00AC8387 /* AboutView.swift */; };
+		3F90EFD72B90A14A00AC8387 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFD62B90A14A00AC8387 /* AnimationView.swift */; };
+		3F90EFD92B90A16900AC8387 /* ChangeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFD82B90A16900AC8387 /* ChangeView.swift */; };
+		3F90EFDB2B90A18C00AC8387 /* CityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFDA2B90A18C00AC8387 /* CityView.swift */; };
+		3F90EFDD2B90A1A700AC8387 /* FinalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFDC2B90A1A700AC8387 /* FinalView.swift */; };
+		3F90EFDF2B90A1D100AC8387 /* FourMovementsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFDE2B90A1D100AC8387 /* FourMovementsView.swift */; };
+		3F90EFE12B90A1F400AC8387 /* InstrumentCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFE02B90A1F400AC8387 /* InstrumentCardView.swift */; };
+		3F90EFE32B90A22400AC8387 /* MainMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFE22B90A22400AC8387 /* MainMenuView.swift */; };
+		3F90EFE52B90A23B00AC8387 /* MovementCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFE42B90A23B00AC8387 /* MovementCardView.swift */; };
+		3F90EFE72B90A25100AC8387 /* PairView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFE62B90A25100AC8387 /* PairView.swift */; };
+		3F90EFE92B90A2D200AC8387 /* ExplanationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90EFE82B90A2D200AC8387 /* ExplanationView.swift */; };
+		3FF2D1532B973C5100CA08B4 /* Strange Path.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2D1522B973C5100CA08B4 /* Strange Path.ttf */; };
+		3FF2D15B2B973F3200CA08B4 /* capoeiraMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2D1542B973F3200CA08B4 /* capoeiraMusic.mp3 */; };
+		3FF2D15C2B973F3200CA08B4 /* atabaqueMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2D1552B973F3200CA08B4 /* atabaqueMusic.mp3 */; };
+		3FF2D15D2B973F3200CA08B4 /* pandeiroMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2D1562B973F3200CA08B4 /* pandeiroMusic.mp3 */; };
+		3FF2D15E2B973F3200CA08B4 /* recorecoMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2D1572B973F3200CA08B4 /* recorecoMusic.mp3 */; };
+		3FF2D15F2B973F3200CA08B4 /* agogoMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2D1582B973F3200CA08B4 /* agogoMusic.mp3 */; };
+		3FF2D1602B973F3200CA08B4 /* caxixiMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2D1592B973F3200CA08B4 /* caxixiMusic.mp3 */; };
+		3FF2D1612B973F3200CA08B4 /* berimbauMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2D15A2B973F3200CA08B4 /* berimbauMusic.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +49,36 @@
 		3F90EFAD2B909E8600AC8387 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3F90EFAF2B909E8700AC8387 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F90EFB22B909E8700AC8387 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3F90EFBE2B909F4D00AC8387 /* CapoeiraMove.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapoeiraMove.swift; sourceTree = "<group>"; };
+		3F90EFC02B909F5E00AC8387 /* Instrument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instrument.swift; sourceTree = "<group>"; };
+		3F90EFC22B909F7600AC8387 /* Movement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movement.swift; sourceTree = "<group>"; };
+		3F90EFC42B909FB000AC8387 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		3F90EFC62B909FCA00AC8387 /* GlobalAudioManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalAudioManager.swift; sourceTree = "<group>"; };
+		3F90EFC82B909FED00AC8387 /* AnimationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationViewModel.swift; sourceTree = "<group>"; };
+		3F90EFCA2B90A01E00AC8387 /* ExplanationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplanationViewModel.swift; sourceTree = "<group>"; };
+		3F90EFCC2B90A04300AC8387 /* FourMovementsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourMovementsViewModel.swift; sourceTree = "<group>"; };
+		3F90EFCE2B90A06800AC8387 /* InstrumentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstrumentViewModel.swift; sourceTree = "<group>"; };
+		3F90EFD02B90A08E00AC8387 /* MainMenuViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuViewModel.swift; sourceTree = "<group>"; };
+		3F90EFD22B90A0E500AC8387 /* MovementViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovementViewModel.swift; sourceTree = "<group>"; };
+		3F90EFD42B90A12C00AC8387 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
+		3F90EFD62B90A14A00AC8387 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
+		3F90EFD82B90A16900AC8387 /* ChangeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeView.swift; sourceTree = "<group>"; };
+		3F90EFDA2B90A18C00AC8387 /* CityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityView.swift; sourceTree = "<group>"; };
+		3F90EFDC2B90A1A700AC8387 /* FinalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalView.swift; sourceTree = "<group>"; };
+		3F90EFDE2B90A1D100AC8387 /* FourMovementsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourMovementsView.swift; sourceTree = "<group>"; };
+		3F90EFE02B90A1F400AC8387 /* InstrumentCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstrumentCardView.swift; sourceTree = "<group>"; };
+		3F90EFE22B90A22400AC8387 /* MainMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuView.swift; sourceTree = "<group>"; };
+		3F90EFE42B90A23B00AC8387 /* MovementCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovementCardView.swift; sourceTree = "<group>"; };
+		3F90EFE62B90A25100AC8387 /* PairView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairView.swift; sourceTree = "<group>"; };
+		3F90EFE82B90A2D200AC8387 /* ExplanationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplanationView.swift; sourceTree = "<group>"; };
+		3FF2D1522B973C5100CA08B4 /* Strange Path.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Strange Path.ttf"; sourceTree = "<group>"; };
+		3FF2D1542B973F3200CA08B4 /* capoeiraMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = capoeiraMusic.mp3; sourceTree = "<group>"; };
+		3FF2D1552B973F3200CA08B4 /* atabaqueMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = atabaqueMusic.mp3; sourceTree = "<group>"; };
+		3FF2D1562B973F3200CA08B4 /* pandeiroMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pandeiroMusic.mp3; sourceTree = "<group>"; };
+		3FF2D1572B973F3200CA08B4 /* recorecoMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = recorecoMusic.mp3; sourceTree = "<group>"; };
+		3FF2D1582B973F3200CA08B4 /* agogoMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = agogoMusic.mp3; sourceTree = "<group>"; };
+		3FF2D1592B973F3200CA08B4 /* caxixiMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = caxixiMusic.mp3; sourceTree = "<group>"; };
+		3FF2D15A2B973F3200CA08B4 /* berimbauMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = berimbauMusic.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +95,13 @@
 		3F90EF9F2B909E8600AC8387 = {
 			isa = PBXGroup;
 			children = (
+				3FF2D1582B973F3200CA08B4 /* agogoMusic.mp3 */,
+				3FF2D1552B973F3200CA08B4 /* atabaqueMusic.mp3 */,
+				3FF2D15A2B973F3200CA08B4 /* berimbauMusic.mp3 */,
+				3FF2D1592B973F3200CA08B4 /* caxixiMusic.mp3 */,
+				3FF2D1542B973F3200CA08B4 /* capoeiraMusic.mp3 */,
+				3FF2D1562B973F3200CA08B4 /* pandeiroMusic.mp3 */,
+				3FF2D1572B973F3200CA08B4 /* recorecoMusic.mp3 */,
 				3F90EFAA2B909E8600AC8387 /* CapoEduca */,
 				3F90EFA92B909E8600AC8387 /* Products */,
 			);
@@ -51,6 +118,11 @@
 		3F90EFAA2B909E8600AC8387 /* CapoEduca */ = {
 			isa = PBXGroup;
 			children = (
+				3F90EFBD2B909F2200AC8387 /* Views */,
+				3F90EFBC2B909F1800AC8387 /* ViewModels */,
+				3F90EFBB2B909F0C00AC8387 /* Utilities */,
+				3F90EFBA2B909F0100AC8387 /* Resources */,
+				3F90EFB92B909EF300AC8387 /* Models */,
 				3F90EFAB2B909E8600AC8387 /* CapoEducaApp.swift */,
 				3F90EFAD2B909E8600AC8387 /* ContentView.swift */,
 				3F90EFAF2B909E8700AC8387 /* Assets.xcassets */,
@@ -65,6 +137,64 @@
 				3F90EFB22B909E8700AC8387 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3F90EFB92B909EF300AC8387 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3F90EFBE2B909F4D00AC8387 /* CapoeiraMove.swift */,
+				3F90EFC02B909F5E00AC8387 /* Instrument.swift */,
+				3F90EFC22B909F7600AC8387 /* Movement.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3F90EFBA2B909F0100AC8387 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3FF2D1522B973C5100CA08B4 /* Strange Path.ttf */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		3F90EFBB2B909F0C00AC8387 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				3F90EFC42B909FB000AC8387 /* Color.swift */,
+				3F90EFC62B909FCA00AC8387 /* GlobalAudioManager.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		3F90EFBC2B909F1800AC8387 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				3F90EFC82B909FED00AC8387 /* AnimationViewModel.swift */,
+				3F90EFCA2B90A01E00AC8387 /* ExplanationViewModel.swift */,
+				3F90EFCC2B90A04300AC8387 /* FourMovementsViewModel.swift */,
+				3F90EFCE2B90A06800AC8387 /* InstrumentViewModel.swift */,
+				3F90EFD02B90A08E00AC8387 /* MainMenuViewModel.swift */,
+				3F90EFD22B90A0E500AC8387 /* MovementViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		3F90EFBD2B909F2200AC8387 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3F90EFD42B90A12C00AC8387 /* AboutView.swift */,
+				3F90EFD62B90A14A00AC8387 /* AnimationView.swift */,
+				3F90EFD82B90A16900AC8387 /* ChangeView.swift */,
+				3F90EFDA2B90A18C00AC8387 /* CityView.swift */,
+				3F90EFDC2B90A1A700AC8387 /* FinalView.swift */,
+				3F90EFDE2B90A1D100AC8387 /* FourMovementsView.swift */,
+				3F90EFE02B90A1F400AC8387 /* InstrumentCardView.swift */,
+				3F90EFE22B90A22400AC8387 /* MainMenuView.swift */,
+				3F90EFE42B90A23B00AC8387 /* MovementCardView.swift */,
+				3F90EFE62B90A25100AC8387 /* PairView.swift */,
+				3F90EFE82B90A2D200AC8387 /* ExplanationView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +255,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FF2D15D2B973F3200CA08B4 /* pandeiroMusic.mp3 in Resources */,
+				3FF2D15B2B973F3200CA08B4 /* capoeiraMusic.mp3 in Resources */,
 				3F90EFB32B909E8700AC8387 /* Preview Assets.xcassets in Resources */,
 				3F90EFB02B909E8700AC8387 /* Assets.xcassets in Resources */,
+				3FF2D15F2B973F3200CA08B4 /* agogoMusic.mp3 in Resources */,
+				3FF2D1532B973C5100CA08B4 /* Strange Path.ttf in Resources */,
+				3FF2D15E2B973F3200CA08B4 /* recorecoMusic.mp3 in Resources */,
+				3FF2D1602B973F3200CA08B4 /* caxixiMusic.mp3 in Resources */,
+				3FF2D1612B973F3200CA08B4 /* berimbauMusic.mp3 in Resources */,
+				3FF2D15C2B973F3200CA08B4 /* atabaqueMusic.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +275,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F90EFE12B90A1F400AC8387 /* InstrumentCardView.swift in Sources */,
+				3F90EFC12B909F5E00AC8387 /* Instrument.swift in Sources */,
+				3F90EFE72B90A25100AC8387 /* PairView.swift in Sources */,
+				3F90EFBF2B909F4D00AC8387 /* CapoeiraMove.swift in Sources */,
 				3F90EFAE2B909E8600AC8387 /* ContentView.swift in Sources */,
+				3F90EFDD2B90A1A700AC8387 /* FinalView.swift in Sources */,
+				3F90EFDB2B90A18C00AC8387 /* CityView.swift in Sources */,
+				3F90EFC72B909FCA00AC8387 /* GlobalAudioManager.swift in Sources */,
+				3F90EFC32B909F7600AC8387 /* Movement.swift in Sources */,
 				3F90EFAC2B909E8600AC8387 /* CapoEducaApp.swift in Sources */,
+				3F90EFDF2B90A1D100AC8387 /* FourMovementsView.swift in Sources */,
+				3F90EFD72B90A14A00AC8387 /* AnimationView.swift in Sources */,
+				3F90EFC52B909FB000AC8387 /* Color.swift in Sources */,
+				3F90EFCD2B90A04300AC8387 /* FourMovementsViewModel.swift in Sources */,
+				3F90EFE92B90A2D200AC8387 /* ExplanationView.swift in Sources */,
+				3F90EFD52B90A12C00AC8387 /* AboutView.swift in Sources */,
+				3F90EFD12B90A08E00AC8387 /* MainMenuViewModel.swift in Sources */,
+				3F90EFE32B90A22400AC8387 /* MainMenuView.swift in Sources */,
+				3F90EFCB2B90A01E00AC8387 /* ExplanationViewModel.swift in Sources */,
+				3F90EFE52B90A23B00AC8387 /* MovementCardView.swift in Sources */,
+				3F90EFD92B90A16900AC8387 /* ChangeView.swift in Sources */,
+				3F90EFD32B90A0E500AC8387 /* MovementViewModel.swift in Sources */,
+				3F90EFC92B909FED00AC8387 /* AnimationViewModel.swift in Sources */,
+				3F90EFCF2B90A06800AC8387 /* InstrumentViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,7 +357,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -254,7 +414,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -269,17 +429,21 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"CapoEduca/Preview Content\"";
 				DEVELOPMENT_TEAM = J7T48SP5FT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = CapoEduca;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,9 +451,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sil.CapoEduca;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -298,17 +465,21 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"CapoEduca/Preview Content\"";
 				DEVELOPMENT_TEAM = J7T48SP5FT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = CapoEduca;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,9 +487,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sil.CapoEduca;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

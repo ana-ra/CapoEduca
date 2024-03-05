@@ -1,24 +1,14 @@
-//
-//  ContentView.swift
-//  CapoEduca
-//
-//  Created by Silvana Rodrigues Alves on 29/02/24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        GeometryReader { geometry in
+            VStack {
+                NavigationStack {
+                    MainMenuView()
+                        .frame(width: geometry.size.width, height: geometry.size.height)
+                }
+            }
         }
-        .padding()
     }
-}
-
-#Preview {
-    ContentView()
 }
